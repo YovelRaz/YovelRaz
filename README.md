@@ -3,7 +3,7 @@
 <h2>👨‍💻 Instructional Technologies Projects:</h2>
 
 - <b>Bar system</b>
-  - [Praciting JS & Illustrator in Adobe Animate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting JS & Illustrator in Adobe Animate](https://yovelraz.github.io/YovelRaz.github.Barsystem/ChooseYourCocktaillastv.html)
 - <b>Homechef website (HTML,CSS,JS)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>GreenDIY-UI/UX</b>
