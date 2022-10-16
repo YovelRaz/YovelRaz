@@ -3,11 +3,11 @@
 <h2>👨‍💻 Instructional Technologies Projects:</h2>
 
 - <b>Bar system</b>
-  - [Praciting JS & Illustrator in Adobe Animate](https://yovelraz.github.io/YovelRaz.github.Barsystem/ChooseYourCocktaillastv.html)
+  - <a href="https://yovelraz.github.io/YovelRaz.github.Barsystem/ChooseYourCocktaillastv.html" target="_blank" >Praciting JS & Illustrator in Adobe Animate</a>.
 - <b>Homechef website (HTML,CSS,JS)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b></i>
 - <b>GreenDIY-UI/UX</b>
-  - [Adobe XD](https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/)
+  - <a href="https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/" target="_blank" >Adobe XD</a>.
   
 <h2> product</h2>
 <b> collaborations</b>
@@ -36,6 +36,10 @@
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - [Praciting JS & Illustrator in Adobe Animate](https://yovelraz.github.io/YovelRaz.github.Barsystem/ChooseYourCocktaillastv.html)<br>
+  - [Adobe XD](https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/)
+
+
 
 Here are some ideas to get you started:
 
