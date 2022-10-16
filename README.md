@@ -7,7 +7,7 @@
 - <b>Homechef website (HTML,CSS,JS)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>GreenDIY-UI/UX</b>
-  - [Adobe XD](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Adobe XD](https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/)
   
 <h2> product</h2>
 <b> collaborations</b>
