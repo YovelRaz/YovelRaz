@@ -5,12 +5,13 @@
 - <b>Bar system</b>
   - <a href="https://yovelraz.github.io/YovelRaz.github.Barsystem/ChooseYourCocktaillastv.html" target="_blank" >Praciting JS & Illustrator in Adobe Animate</a>.
 - <b>Homechef website (HTML,CSS,JS)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b></i>
+  - [Image Analysis Middleware](https://yovelraz.github.io/HomeChefWeb/homePage.html) </b></i>
 - <b>GreenDIY-UI/UX</b>
   - <a href="https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/" target="_blank" >Adobe XD</a>.
   
-<h2> product</h2>
-<b> collaborations</b>
+<h2> Design</h2>
+<ul> <li>
+link to - <a href="https://yovelrazportfolio.my.canva.site/" target="_blank" >Design Portfolio</a><li> <ul>
   
  <h2> knoledge </h2>
  -<b> SQL</b> <br>
@@ -29,8 +30,7 @@
 [<img align="left" alt="YovelRaz | LinkedIn" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="YovelRaz | Instagram" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/YovelRaz
-[youtube]: https://www.youtube.com/c/YovelRaz
+[Facebook]: https://www.youtube.com/c/YovelRaz
 [instagram]: https://www.instagram.com/YovelRaz/
 [linkedin]: https://linkedin.com/in/YovelRaz
 
