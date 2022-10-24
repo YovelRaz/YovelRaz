@@ -10,8 +10,8 @@
   - <a href="https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/" target="_blank" >Adobe XD</a>.
   
 <h2> Design</h2>
-<ul> <li>
-link to - <a href="https://yovelrazportfolio.my.canva.site/" target="_blank" >Design Portfolio</a><li> <ul>
+<ul> <li> <b>
+Enter - <a href="https://yovelrazportfolio.my.canva.site/" target="_blank" >Design Portfolio</a> <b><li> <ul>
   
  <h2> knoledge </h2>
  -<b> SQL</b> <br>
