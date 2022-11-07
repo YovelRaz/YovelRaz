@@ -17,8 +17,10 @@ Enter - <a href="https://yovelrazportfolio.my.canva.site/" target="_blank" >Desi
  -<b> SQL</b> <br>
  -<b> Excel </b> <br>
  -<b> Adobe Illustrator, Photoshop, Animate, XD</b> <br>
-  -<b> JS</b> <br>
-   -<b>HTML, CSS</b> <br>
+ -<b> JS</b> <br>
+ -<b> C#</b> <br>
+ -<b> Unity</b> <br>
+ -<b>HTML, CSS</b> <br>
 
 
 <h2> 🤳 Connect with me:</h2>
