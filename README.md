@@ -21,18 +21,14 @@ Enter - <a href="https://yovelrazportfolio.my.canva.site/" target="_blank" >Desi
    -<b>HTML, CSS</b> <br>
 
 
-
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="YovelRaz | YouTube" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YovelRaz | Twitter" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YovelRaz | LinkedIn" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="YovelRaz | Instagram" width="22px" src="https://cdn.YovelRaz.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yovelraz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yovelraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Facebook]: https://www.youtube.com/c/YovelRaz
-[instagram]: https://www.instagram.com/YovelRaz/
-[linkedin]: https://linkedin.com/in/YovelRaz
+[instagram]: https://www.instagram.com/yovelraz/
+[linkedin]: https://www.linkedin.com/in/yovel-raz-29b76a219/
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
