@@ -9,7 +9,7 @@
 - <b>GreenDIY-UI/UX</b>
   - <a href="https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/" target="_blank" >Adobe XD</a>.
 - <b>DoulinHIT-UI/UX</b>
-  - <a href="https://xd.adobe.com/view/964d79c7-c1ab-422f-9ad1-e626e4e807b6-c31e/](https://xd.adobe.com/view/a76acc7f-8d6b-4570-9333-4fe02549a595-f239/?fullscreen" target="_blank" >Adobe XD</a>.
+  - <a href="https://xd.adobe.com/view/a76acc7f-8d6b-4570-9333-4fe02549a595-f239/?fullscreen" target="_blank" >Adobe XD</a>.
   
 <h2> Design</h2>
 <ul> <li> <b>
